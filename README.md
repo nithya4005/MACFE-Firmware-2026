@@ -30,5 +30,3 @@ g++ -o hello main.cpp
 ```bash
 ./hello
 ```
-
-## Usage
