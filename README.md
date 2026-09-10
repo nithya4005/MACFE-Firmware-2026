@@ -4,7 +4,7 @@ A C++ program that prints "Hello World" and greets the user by name.
 
 ## Prerequisites
 
-Make sure you have g++ installed:
+Make sure you have a C++ compiler installed (e.g. g++):
 
 ```bash
 g++ --version
